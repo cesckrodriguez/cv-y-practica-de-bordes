@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=BhuTuka+Expanded+One&family=Inspiration&family=Merriweather&family=PT+Serif&family=Tapestry&display=swap');
+
+header{
+    
+    width 100%;
+    height: 160px;
+    margin: 0%;
+}
+
+header .foto{
+    width: 200px;
+    padding-top: 7px;
+    padding-left: 40px;
+    margin-right: 100PX;
+    display: inline;
+    border-radius: 150px;
+}
+header h1{
+    display: inline;
+    position: relative;
+    
+    bottom: 50px;
+    left: 900px;
+}
+
+.cuerpo{
+    margin-top: 20px;
+    width: 100%;
+    height: 800px;
+    
+}
+
+table{
+    
+    width: 80%;
+    position: relative;
+    left: 150px;
+}
+
+h5{
+    display: inline;
+}
+
+a{
+    margin: 10px;
+}
+
+footer{
+    margin-top: 10px;
+    width: 100%;
+    
+}
+
+nav{
+    margin-top: 20px;
+}
+
+h3{
+    font-family: 'BhuTuka Expanded One', cursive;
+font-family: 'Inspiration', cursive;
+font-family: 'Merriweather', serif;
+font-family: 'PT Serif', serif;
+font-family: 'Tapestry', cursive;
+}
+
+nav table tr.hov a:hover{
+    color: red;
+}
